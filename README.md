@@ -1,5 +1,5 @@
 [![View Plotly Dashboard](https://img.shields.io/badge/View%20Plotly%20Dashboard-0d9488?style=for-the-badge)](https://sriteja-salike.github.io/Dynamic-Stock-Safety-Optimization/plotly_dashboard.html)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dynamic-safety-stock.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dynamic-stock-safety.streamlit.app/)
 
 # Dynamic Safety Stock Optimization
 
